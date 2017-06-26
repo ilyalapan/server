@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # README #
 Ginza Restoran Repo
 
@@ -26,3 +27,6 @@ Ginza Restoran Repo
 
 * Repo owner or admin
 * Other community or team contact
+=======
+# server
+>>>>>>> f706e0b9058f380b494333966d300b85cb279ae3
